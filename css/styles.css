@@ -76,10 +76,21 @@ img {
 	margin: 20px 0px;
 }
 
+.footer{
+	padding: 25px;
+}
+
 footer a { /*descedant */
 	color: white;
 	text-decoration: none;
 	background: #305030;
 	padding:20px;
-	margin-top:80px;
+	margin-top: 80px;
+}
+
+footer a:hover { /*descedant */
+	background: #437043;
+}
+#test {
+	margin-bottom: 50px;
 }
