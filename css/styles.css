@@ -1,0 +1,19 @@
+/* CSS Document */
+
+
+/* Global Styles */
+
+body {
+	background: #FADBDC;
+	font-family: sans-serif;
+}
+
+.margin {
+	margin: 0px auto;
+}
+
+header {
+	background:#B93C86;
+	width: 900px;
+	
+}
