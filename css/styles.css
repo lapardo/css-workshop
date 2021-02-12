@@ -90,16 +90,14 @@ img {
 }
 
 footer a { /*descedant */
+	display: inline-block;
 	color: white;
 	text-decoration: none;
 	background: #305030;
 	padding:20px;
-	margin-top: 80px;
+	margin-top: 20px;
 }
 
 footer a:hover { /*descedant */
 	background: #437043;
-}
-#test {
-	margin-bottom: 50px;
 }
