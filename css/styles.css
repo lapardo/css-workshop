@@ -18,7 +18,24 @@ h1 {
 h2 {
 	font-size: 30px;
 }
-header, footer {
+
+h1, h2, h3 {
+	font-family: 'Abril Fatface', cursive;
+}
+
+header h2 {
+	color: darkseagreen;
+}
+
+header {
+	background-image: url("../images/fruits-pattern.png");
+	color: white;
+	text-align: center;
+	padding:50px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+footer {
 	background: darkseagreen;
 	color: white;
 	text-align: center;
